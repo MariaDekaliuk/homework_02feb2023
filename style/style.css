@@ -20,26 +20,29 @@ td{
     padding: 2px;
 }
 
-h2 {
+h1, h2 {
     font-size: 32px;
     font-style: bold;
 }
+.spisok{
+    font-size: 20px;
+    margin-left: 10px;
+}
+
 .shapka {
     text-align: center;
     font-size: 16pt;
     font-weight: bold;
 }
 
-.spisok{
-    font-size: 20px;
-}
 .cell {
     font-size: 20px;
 }
+
 .flag {
     width: 50px;
 }
 
-.table{
+.kurs{
     padding: 20px 0;
 }
